@@ -18,4 +18,6 @@ This project demonstrates building and deploying a Generative AI-powered Python 
 
 ## Project Structure
 
-https://myapp.286kzz1jngiw.us-south.codeengine.appdomain.cloud/
+## Live Demo https://huggingface.co/spaces/Iamengndegwa/Slider
+
+
